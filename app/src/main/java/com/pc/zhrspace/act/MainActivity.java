@@ -1,4 +1,4 @@
-package com.pc.zhrspace;
+package com.pc.zhrspace.act;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -6,6 +6,7 @@ import android.util.Log;
 
 import com.hyphenate.EMCallBack;
 import com.hyphenate.chat.EMClient;
+import com.pc.zhrspace.R;
 
 public class MainActivity extends AppCompatActivity {
 
